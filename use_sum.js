@@ -1,3 +1,3 @@
 var sum = require('./sum');
 
-console.log(sum.sum(1000));
+console.log(sum.sum(100));
